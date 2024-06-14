@@ -1,3 +1,3 @@
-import { addPet } from './client/services.gen.ts';
+import { addPet } from './client/services.gen';
 
 console.log(addPet);
